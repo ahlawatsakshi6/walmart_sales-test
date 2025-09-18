@@ -1,0 +1,9 @@
+import pandas
+# first install these 
+#mysql toolkit
+pymysql #this will work as adapter
+sqlalchemy create_engine
+
+#psql
+psycopg2
+
