@@ -1,5 +1,5 @@
-# walmart_sales-test
-# Walmart Data Analysis: End-to-End SQL + Python Project P-9
+# walmart_sales
+# Walmart Data Analysis: End-to-End SQL + Python Project 
 
 ## Project Overview
 
